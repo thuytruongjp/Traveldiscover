@@ -1,1 +1,1 @@
-[Live Demo](https://thuytruongjp.github.io/Traveldiscover/){:target="_blank"}
+[Live Demo](https://thuytruongjp.github.io/Traveldiscover/)
